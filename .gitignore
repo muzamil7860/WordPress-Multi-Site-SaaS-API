@@ -1,0 +1,4 @@
+echo "node_modules/" >> .gitignore
+echo ".DS_Store" >> .gitignore
+echo "*.log" >> .gitignore
+echo "vendor/" >> .gitignore  # If using Composer
